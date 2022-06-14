@@ -1,0 +1,16 @@
+a {
+  cursor: pointer;
+}
+
+.app-container {
+  min-height: 350px;
+}
+
+.active {
+  color: #ff9933 !important;
+}
+
+#navbar ul li a,
+#navbar ul li a:visited {
+  color: #00f;
+}
